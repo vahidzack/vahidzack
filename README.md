@@ -17,7 +17,7 @@
 
 <br>
 
-- .Net Developer 
+- Asp .Net Developer 
 - Xamarin Developer
 - Currently learning Web Development by Self
 - Maui Developer
