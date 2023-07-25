@@ -35,6 +35,8 @@
 - **Languages**:
     
     ![Csharp](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Asp.Net Core](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  
    
 
 <br>   
