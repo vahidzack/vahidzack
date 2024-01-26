@@ -15,10 +15,11 @@
 
 - Asp .Net Developer 
 - Xamarin Developer
-- Currently learning Web Development by Self
 - Maui Developer
-- I’m currently open for an Intern or a new job opportunity, 
-
+- Blazor Developer
+- Windwos From Developer
+- Try to learn more about c sharp
+- Currently learning Web Development by Self
 <br><br>
 
 
