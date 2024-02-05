@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm vahid zack </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.google.com/1000_F_536749058_kAzYrcCRTAFWdO7DUx6quArBfMT6uO0F.jpg"></a>
+  <a href=""><img src="https://www.google.com/1000_F_536749058_kAzYrcCRTAFWdO7DUx6quArBfMT6uO0F.jpg"></a>
 </p>
 
 
