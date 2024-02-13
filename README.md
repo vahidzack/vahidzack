@@ -17,7 +17,7 @@
 - Xamarin Developer
 - Maui Developer
 - Blazor Developer
-- Windwos From Developer
+- Windows Form Developer
 - Try to learn more about c sharp
 - Currently learning Web Development by Self
 <br><br>
